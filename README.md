@@ -17,7 +17,7 @@ Older versions are on the [Releases](https://github.com/fujino6x28/AuraPrism-rel
 - 体験版は期限なしで使えます。書き出し画像に透かしが入り、一部の機能が使えません。
   The trial never expires. Exported images carry a watermark and some features are locked.
 - 製品版のご購入、機能の詳細、お問い合わせは公式サイトへ。
-  For purchase, features and support, see the official site: <!-- TODO: Cloudflare Pages のアドレス -->
+  For purchase, features and support, see the official site: https://auraprism.pages.dev
 
 ## インストール時の警告について / About the Windows warning
 
